@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T17:11:53.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="b98GcbPb5HM_0UMl1vas" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T17:58:15.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HrJFIGlyoFeHGjrXwkjq" version="17.1.2" type="github">
   <diagram id="Y2bB13DLOic2n1DQH73y" name="Page-1">
     <mxGraphModel dx="1172" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,10 +138,7 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-50" target="KjjNd3zVkvkz2XqYObeU-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-50" target="KjjNd3zVkvkz2XqYObeU-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-50" target="KjjNd3zVkvkz2XqYObeU-104" edge="1">
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="1" source="SbFfsxjL-s59OUdSH46h-45" target="KjjNd3zVkvkz2XqYObeU-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-50" target="KjjNd3zVkvkz2XqYObeU-113" edge="1">
@@ -195,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-67" target="KjjNd3zVkvkz2XqYObeU-75" edge="1">
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-67" target="KjjNd3zVkvkz2XqYObeU-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SbFfsxjL-s59OUdSH46h-35" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KjjNd3zVkvkz2XqYObeU-65">
@@ -227,8 +224,10 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-75" value="Try to find &quot;nearly&quot; match" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="610" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-81" target="KjjNd3zVkvkz2XqYObeU-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-81" target="KjjNd3zVkvkz2XqYObeU-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -244,9 +243,6 @@
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-81" value="Get Q/A, drc details(make, model), sku(make/model/pricing), memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="805" y="1290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-82" value="4 vs 6?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="805" y="1170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-83" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-85" target="KjjNd3zVkvkz2XqYObeU-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -292,26 +288,13 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-95" value="Q&amp;amp;A don&#39;t match, item don&#39;t match match make, model match" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1105" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-98" target="KjjNd3zVkvkz2XqYObeU-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-98" target="KjjNd3zVkvkz2XqYObeU-102" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-98" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="1400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-98" value="tah_match_found = &#39;Y&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-99" value="Where is this used? subsequent processing?&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="1230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-101" target="KjjNd3zVkvkz2XqYObeU-98" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-101" value="Why can&#39;t non trade at home fall under this bucket? Can&#39;t store employees make these errors?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="1480" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-102" value="Exit Unexpected order processing" style="triangle;whiteSpace=wrap;html=1;fillColor=#FFFF00;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="1360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-104" target="KjjNd3zVkvkz2XqYObeU-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -409,11 +392,8 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-132" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-134" target="KjjNd3zVkvkz2XqYObeU-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-134" target="KjjNd3zVkvkz2XqYObeU-138" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-134" value="Looks for recycle device records with device id from PIF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="1830" width="130" height="40" as="geometry" />
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-134" value="Looks for recycle device records with device id from PIF and target only NONPKGR records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1810" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-137" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -425,9 +405,6 @@
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-137" value="Records &lt;br&gt;exist" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1380" y="1810" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-138" value="Why would there be a PKGR record with same device id?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1650" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-139" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-140" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -542,7 +519,7 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-170" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-172" target="KjjNd3zVkvkz2XqYObeU-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-172" edge="1">
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-171" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-172" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="745" y="2260" as="targetPoint" />
           </mxGeometry>
@@ -550,20 +527,11 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-172" value="Is refund order" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="805" y="2130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KjjNd3zVkvkz2XqYObeU-176" target="KjjNd3zVkvkz2XqYObeU-177" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-176" target="KjjNd3zVkvkz2XqYObeU-181" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-175" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.017;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-176" target="KjjNd3zVkvkz2XqYObeU-196" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-176" value="Check if TIN, ISP with combo_ind &quot;T&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="950" y="2140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-177" value="What is this? What does TIN mean?&amp;nbsp;&lt;br&gt;What does ISP with combo T mean? Why are we doing this?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="2020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-181" target="KjjNd3zVkvkz2XqYObeU-182" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -612,11 +580,6 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-195" target="KjjNd3zVkvkz2XqYObeU-182" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-191" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KjjNd3zVkvkz2XqYObeU-190" vertex="1" connectable="0">
-          <mxGeometry x="0.3846" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-194" target="KjjNd3zVkvkz2XqYObeU-195" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -630,9 +593,6 @@
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-195" value="Update dr_stat = CAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="1630" y="2165" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-196" value="What does ace records mean?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="2020" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-197" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-198" target="KjjNd3zVkvkz2XqYObeU-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -695,9 +655,6 @@
           <mxGeometry x="1120" y="2670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-217" target="KjjNd3zVkvkz2XqYObeU-219" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-217" target="KjjNd3zVkvkz2XqYObeU-255" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-217" value="Handle Refund orders with IC and Retail TAH &lt;b&gt;(14)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -838,9 +795,6 @@
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-254" value="&lt;span&gt;Override location/order/item seq from PIF to the ones we found which will be used in subsequent steps&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="3770" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-255" value="Where do we check for IC and Retail TAH&lt;br&gt;details? Is it initial table?" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="3500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-256" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-182" target="KjjNd3zVkvkz2XqYObeU-217" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1099,6 +1053,42 @@
         </mxCell>
         <mxCell id="SbFfsxjL-s59OUdSH46h-34" value="Joe is looking at this?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-37" value="4 get data of device from PIF file&lt;br&gt;5 gets data of device from Refund order" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-38" value="Joe to check why cast 2 looks for promo and 1,2,4 doesn&#39;t&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="1080" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-39" value="Update loc_number, order number from Refund record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-40" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-41" value="Joe is going to check if we are going to exit processing the PIF record in case we call ICO_TXN to create IS order?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1420" width="430" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-43" value="&lt;span&gt;Dilip to update step e on this doc&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1250" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-45" value="Dilip to update this flow. This is incorrect. This is only done when tah_match_found = &#39;N&#39; and no_promo exits on order found on PIF record" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1110" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-46" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="KjjNd3zVkvkz2XqYObeU-50" target="SbFfsxjL-s59OUdSH46h-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="940" as="sourcePoint" />
+            <mxPoint x="615.1785714285716" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-47" value="Joe to check in what scenarios and what system sets ABN status.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1700" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-48" value="TIN-&amp;gt; TradeIn&lt;br&gt;ISP-&amp;gt; Instore Pickup&lt;br&gt;ISP combo T-&amp;gt; Instore pickup with Tradein" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2195" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-49" value="My understanding is step 14 gets executed only when the flag is set by step 11.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="389" y="3430" width="162" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
