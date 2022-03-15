@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T17:58:15.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="HrJFIGlyoFeHGjrXwkjq" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T18:10:40.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lxiK4DaFoH1isukzAdml" version="17.1.2" type="github">
   <diagram id="Y2bB13DLOic2n1DQH73y" name="Page-1">
     <mxGraphModel dx="1172" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -600,17 +600,11 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-198" value="Handle pre-orders(12 and 13)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="420" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-199" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-201" target="KjjNd3zVkvkz2XqYObeU-202" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-200" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-201" target="KjjNd3zVkvkz2XqYObeU-208" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-201" value="Get pre_order details(pre_order status and SED offer promo)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="615" y="2560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-202" value="What is SED promo?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="665" y="2430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-203" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-208" target="KjjNd3zVkvkz2XqYObeU-209" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -647,12 +641,6 @@
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-212" value="Is step 13 executed only for SED promos? or if PO exists?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="860" y="2440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-213" value="Looks for non shipped pre-orders&lt;br&gt;&lt;br&gt;I am not clear on this step" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="2557.5" width="210" height="82.5" as="geometry" />
-        </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-214" value="Why are we doing this?&lt;br&gt;What is not overridden?&lt;br&gt;Isn&#39;t it same flag?&lt;br&gt;What is difference b/w 12 and 13?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="2670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-217" target="KjjNd3zVkvkz2XqYObeU-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1089,6 +1077,18 @@
         </mxCell>
         <mxCell id="SbFfsxjL-s59OUdSH46h-49" value="My understanding is step 14 gets executed only when the flag is set by step 11.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="389" y="3430" width="162" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-50" value="SED: StreamLine Equipment Discount" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="625" y="2450" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-52" value="&lt;span&gt;Looks for non shipped pre-orders&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span&gt;I am not clear on this step&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2510" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-53" value="&lt;span&gt;Why are we doing this?&lt;/span&gt;&lt;br&gt;&lt;span&gt;What is not overridden?&lt;/span&gt;&lt;br&gt;&lt;span&gt;Isn&#39;t it same flag?&lt;/span&gt;&lt;br&gt;&lt;span&gt;What is difference b/w 12 and 13?&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2400" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SbFfsxjL-s59OUdSH46h-54" value="Joe is going to take another stab at steps 12 and 13" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="2650" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
