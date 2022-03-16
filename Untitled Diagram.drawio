@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T18:02:16.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NrnQfoJ0mg7rIvTlvpdL" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T18:52:40.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="pwfscsDQcAcLMJEECGaM" version="17.1.2" type="github">
   <diagram id="Y2bB13DLOic2n1DQH73y" name="Page-1">
-    <mxGraphModel dx="1629" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,7 +728,7 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-261" value="Find matching DR record using device-id from ora_check_open_Trade and look for non PKGR records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="590" y="4380" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-267" target="PZgfyG_mXTi6joqUZfRK-4" edge="1">
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-267" target="QjwxIpEB5KB5-K15nMhh-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="4530" as="targetPoint" />
           </mxGeometry>
@@ -857,12 +857,20 @@
         <mxCell id="KjjNd3zVkvkz2XqYObeU-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-297" target="KjjNd3zVkvkz2XqYObeU-301" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KjjNd3zVkvkz2XqYObeU-297" value="Execute po_status nad ora_pobo_icon and get status &lt;b&gt;(15.e)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="4550" width="220" height="50" as="geometry" />
+        <mxCell id="KjjNd3zVkvkz2XqYObeU-297" value="Look for Preorders with new order number found&lt;br&gt;Execute po_status nad ora_pobo_icon and get status &lt;b&gt;(15.e)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="4540" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-299" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-301" target="KjjNd3zVkvkz2XqYObeU-302" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1780" y="4780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KjjNd3zVkvkz2XqYObeU-301" target="PZgfyG_mXTi6joqUZfRK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-7" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZgfyG_mXTi6joqUZfRK-6">
+          <mxGeometry x="-0.6311" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjjNd3zVkvkz2XqYObeU-301" value="X(CANCELLED)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1203,14 +1211,17 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-3" value="If no replacement trade-in order found mark tah_match_found = &#39;N&#39;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="3920" width="165" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QjwxIpEB5KB5-K15nMhh-12" target="PZgfyG_mXTi6joqUZfRK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-12" value="Update c struct. What does this struct hold and where is it used in later steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1720" y="4920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-14" value="Step 16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-14" value="Do we have a valid TradeIn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="430" y="4870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-15" value="Step 15, b asks to move to step 16 if no records found but step 16 says if not 14 and 15 what does it mean?&lt;br&gt;&lt;br&gt;Possible outcomes&lt;br&gt;1. Does 16 check if not 14 and 15. Not a RF order with... and not a Cancelled order with ....&lt;br&gt;&lt;br&gt;2. Is 16 executed even in 15-b scenario?&lt;br&gt;If so why are we saying we already have a valid trade-in-record.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="180" y="4610" width="390" height="230" as="geometry" />
+          <mxGeometry x="25" y="4590" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-16" target="QjwxIpEB5KB5-K15nMhh-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1404,7 +1415,7 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=80;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-69" target="QjwxIpEB5KB5-K15nMhh-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-69" value="What is ISPU?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-69" value="ISPU: Instore pickup&lt;br&gt;non-SPO: ?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="230" y="6630" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-71" target="QjwxIpEB5KB5-K15nMhh-76" edge="1">
@@ -1437,7 +1448,7 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-82" target="QjwxIpEB5KB5-K15nMhh-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-82" value="Are we not supposed to exit here?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-82" value="Are we not supposed to exit here?&lt;br&gt;&lt;br&gt;Or&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1270" y="6650" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-84" target="QjwxIpEB5KB5-K15nMhh-85" edge="1">
@@ -1504,7 +1515,7 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-107" target="QjwxIpEB5KB5-K15nMhh-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-107" value="Final closing processing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-107" value="Final closing processing(" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="415" y="7580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-109" target="QjwxIpEB5KB5-K15nMhh-111" edge="1">
@@ -1528,7 +1539,7 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-115" target="QjwxIpEB5KB5-K15nMhh-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-115" value="What is CaseManagement and what does it do" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-115" value="CM is another system&amp;nbsp;&lt;br&gt;&lt;br&gt;What are we sending to CM" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1020" y="7420" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-117" target="QjwxIpEB5KB5-K15nMhh-119" edge="1">
@@ -1546,23 +1557,36 @@
         <mxCell id="QjwxIpEB5KB5-K15nMhh-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-120" target="QjwxIpEB5KB5-K15nMhh-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-120" value="What is event ledger what does it do" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-120" value="What is it, do we need it." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1215" y="7420" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-123" value="Add remark to VISION&amp;nbsp;&lt;br&gt;&quot; TRADE DEVICE RECEIVED. WAITING INSPECTION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1555" y="7565" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-125" target="QjwxIpEB5KB5-K15nMhh-123" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-125" value="VISION is main frame system right but is it DB in this context?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="7410" width="80" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-128" value="What are the main tables?&lt;br&gt;Example of rows inserted for high level scenarios. For example when customer orders a record a order num, location code is inserted into order table, device details like memory.. are inserted into device table etc....&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-128" value="What are the main tables?&lt;br&gt;&lt;br&gt;DR-&amp;gt; Device Recycle table&amp;nbsp;&lt;br&gt;Example of rows inserted for high level scenarios. For example when customer orders a record a order num, location code is inserted into order table, device details like memory.. are inserted into device table etc...." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="435" y="-360" width="525" height="240" as="geometry" />
         </mxCell>
         <mxCell id="PZgfyG_mXTi6joqUZfRK-4" value="tah_match_found = &#39;N&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1128" y="4670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZgfyG_mXTi6joqUZfRK-8" target="QjwxIpEB5KB5-K15nMhh-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="4840" />
+              <mxPoint x="1025" y="4840" />
+              <mxPoint x="1025" y="4850" />
+              <mxPoint x="520" y="4850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-8" value="tah_match_found = &#39;Y&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="4920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=141;exitDy=85;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZgfyG_mXTi6joqUZfRK-11" target="QjwxIpEB5KB5-K15nMhh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-11" value="This step is only for&amp;nbsp; refund orders is our understanding" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="169" y="5430" width="141" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
