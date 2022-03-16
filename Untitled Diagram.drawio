@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T13:05:11.145Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="H4WQDjN3nIow0-XokZSq" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T13:33:24.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_ym40QaUnX-bJfCqf3FK" version="17.1.2" type="github">
   <diagram id="Y2bB13DLOic2n1DQH73y" name="Page-1">
     <mxGraphModel dx="1249" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1557,6 +1557,9 @@
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-125" value="VISION is main frame system right but is it DB in this context?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1595" y="7410" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-128" value="What are the main tables?&lt;br&gt;Example of rows inserted for high level scenarios. For example when customer orders a record a order num, location code is inserted into order table, device details like memory.. are inserted into device table etc....&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="435" y="-360" width="525" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
