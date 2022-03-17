@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T18:52:40.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="pwfscsDQcAcLMJEECGaM" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T02:40:31.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="cuCgXyQ_PsWo0GBL2jzO" version="17.1.2" type="github">
   <diagram id="Y2bB13DLOic2n1DQH73y" name="Page-1">
-    <mxGraphModel dx="1412" dy="1724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1765" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,9 +707,6 @@
             <mxPoint x="1436.96" y="3632.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-254" target="vjQISF-CKCTCECtc4iCv-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KjjNd3zVkvkz2XqYObeU-254" target="vjQISF-CKCTCECtc4iCv-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1080,24 +1077,23 @@
         <mxCell id="vjQISF-CKCTCECtc4iCv-38" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Does this use flag set in steps 12-13&lt;/span&gt;&#xa;&#xa;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="50" y="4320" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-44" value="Update c struct. What does this struct hold and where is it used in later steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="3280" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-47" target="vjQISF-CKCTCECtc4iCv-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-47" value="Check if RF order exists for the new found order&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2015" y="3575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-50" target="vjQISF-CKCTCECtc4iCv-56" edge="1">
+        <mxCell id="vjQISF-CKCTCECtc4iCv-75" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-50" target="vjQISF-CKCTCECtc4iCv-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-50" target="QjwxIpEB5KB5-K15nMhh-3" edge="1">
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vjQISF-CKCTCECtc4iCv-50" target="PZgfyG_mXTi6joqUZfRK-18">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2230" y="3840" />
-              <mxPoint x="1068" y="3840" />
-            </Array>
+            <mxPoint x="2230" y="4010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-14" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZgfyG_mXTi6joqUZfRK-13">
+          <mxGeometry x="-0.9217" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-50" value="RF Exists" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1115,9 +1111,9 @@
         <mxCell id="vjQISF-CKCTCECtc4iCv-56" value="Check if TIN, ISP with combo_ind &quot;T&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2376" y="3574" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-60" target="vjQISF-CKCTCECtc4iCv-62" edge="1">
+        <mxCell id="vjQISF-CKCTCECtc4iCv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-60" target="QjwxIpEB5KB5-K15nMhh-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2606" y="3684" as="targetPoint" />
+            <mxPoint x="2737" y="3754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-58" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vjQISF-CKCTCECtc4iCv-57" vertex="1" connectable="0">
@@ -1131,12 +1127,6 @@
         <mxCell id="vjQISF-CKCTCECtc4iCv-60" value="Records found" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2566" y="3564" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-62" target="QjwxIpEB5KB5-K15nMhh-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-62" value="NO RF order and R with E are happy path. For everything else&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="2696" y="3754" width="164" height="96" as="geometry" />
-        </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2901" y="3584" as="targetPoint" />
@@ -1145,27 +1135,28 @@
         <mxCell id="vjQISF-CKCTCECtc4iCv-64" value="Check R/E activity on trade-in. Compare R and E status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2706" y="3574" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-68" target="KjjNd3zVkvkz2XqYObeU-259" edge="1">
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-16" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vjQISF-CKCTCECtc4iCv-68" target="PZgfyG_mXTi6joqUZfRK-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2971" y="3604" as="sourcePoint" />
-            <mxPoint x="3086" y="3524" as="targetPoint" />
+            <mxPoint x="2380" y="4115" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3300" y="3524" />
-              <mxPoint x="3300" y="4270" />
-              <mxPoint x="530" y="4270" />
+              <mxPoint x="3340" y="3524" />
+              <mxPoint x="3340" y="4115" />
+              <mxPoint x="2300" y="4115" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-66" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vjQISF-CKCTCECtc4iCv-65" vertex="1" connectable="0">
-          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-17" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZgfyG_mXTi6joqUZfRK-16">
+          <mxGeometry x="-0.7702" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-68" value="Is R with E" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2931" y="3484" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vjQISF-CKCTCECtc4iCv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-73" target="vjQISF-CKCTCECtc4iCv-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vjQISF-CKCTCECtc4iCv-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-73" target="QjwxIpEB5KB5-K15nMhh-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2778" y="3754" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vjQISF-CKCTCECtc4iCv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjQISF-CKCTCECtc4iCv-72" target="vjQISF-CKCTCECtc4iCv-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1187,26 +1178,13 @@
         <mxCell id="vjQISF-CKCTCECtc4iCv-76" value="Update c struct. What does this struct hold and where is it used in later steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2420" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-1" target="QjwxIpEB5KB5-K15nMhh-3" edge="1">
+        <mxCell id="QjwxIpEB5KB5-K15nMhh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-3" target="KjjNd3zVkvkz2XqYObeU-259" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2778" y="3970" />
-              <mxPoint x="1934" y="3970" />
-              <mxPoint x="1934" y="3840" />
-              <mxPoint x="1068" y="3840" />
+              <mxPoint x="1068" y="4060" />
+              <mxPoint x="500" y="4060" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-10" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QjwxIpEB5KB5-K15nMhh-9" vertex="1" connectable="0">
-          <mxGeometry x="0.968" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-1" value="Update c struct. What does this struct hold and where is it used in later steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="2718" y="3890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QjwxIpEB5KB5-K15nMhh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-3" target="KjjNd3zVkvkz2XqYObeU-259" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-3" value="If no replacement trade-in order found mark tah_match_found = &#39;N&#39;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="985" y="3920" width="165" height="90" as="geometry" />
@@ -1401,7 +1379,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-65" value="Step19: Something to do with some updates to some records. Not really sure.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="6370" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="6310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QjwxIpEB5KB5-K15nMhh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QjwxIpEB5KB5-K15nMhh-66" target="QjwxIpEB5KB5-K15nMhh-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1587,6 +1565,18 @@
         </mxCell>
         <mxCell id="PZgfyG_mXTi6joqUZfRK-11" value="This step is only for&amp;nbsp; refund orders is our understanding" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="169" y="5430" width="141" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZgfyG_mXTi6joqUZfRK-15" target="KjjNd3zVkvkz2XqYObeU-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-15" value="tah_match_found = &#39;Y&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="4060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZgfyG_mXTi6joqUZfRK-18" target="PZgfyG_mXTi6joqUZfRK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZgfyG_mXTi6joqUZfRK-18" value="Update c struct. What does this struct hold and where is it used in later steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="4070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
